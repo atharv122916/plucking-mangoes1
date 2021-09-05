@@ -90,7 +90,7 @@ function draw() {
   detectollision(stone,mango12);
 }
 
-function mouseDragged()
+
 {
   // Set position of stone when mouse is dragged
   function mouseDragged(){
